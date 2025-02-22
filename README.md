@@ -19,7 +19,7 @@
 ###
 
 <p align="left">Hola, soy  Daniel Gomez, ingeniero electrónico. Me apasiona el desarrollo electrónico y la programación, y me especializo en proyectos que fusionan estas dos disciplinas.<br><br>
-  - 🔭  Actualmente trabajo como ingeniero electrónico, en desarrollo de software y hardware. 
+  - 🔭  Actualmente trabajo como ingeniero electrónico, en desarrollo de software y hardware.<br>
   - 📚 Proyectos:   <br>
   ⚡ Proyecto de Grado sobre IoT: https://github.com/IoT-EBOT/IoT-Home-Sistem-with-STM32-and-Raspberry.<br>
   📡Medidor autónomo de RFI: https://github.com/ERA-2022/Captura-RFI<br>
